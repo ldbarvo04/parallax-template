@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+    <head>
+    <body>
+        <div class="container">
+          <div class="row">
+            <div class="col s12 m6 teal">This div is 12-columns wide</div>
+            <div class="col s12 m6 pink">This div is a 12-columns wide </div>
+          </div>
+          <div class="row">
+            <div class="col s12 teal">Col1</div>
+            <div class="col s12 yellow">Col2</div>
+            <div class="col s12 green ">Col3</div>
+          </div>
